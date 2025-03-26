@@ -1,0 +1,1 @@
+# IoT-AI-driven-Tree-Disease-Identifier-w-Edge-Impulse-MMS
